@@ -1,0 +1,8 @@
+C:\Users\Kerim Deniz\source\repos\ConsoleApp7\04_loops\bin\Debug\04_loops.exe.config
+C:\Users\Kerim Deniz\source\repos\ConsoleApp7\04_loops\bin\Debug\04_loops.exe
+C:\Users\Kerim Deniz\source\repos\ConsoleApp7\04_loops\bin\Debug\04_loops.pdb
+C:\Users\Kerim Deniz\source\repos\ConsoleApp7\04_loops\obj\Debug\04_loops.csproj.AssemblyReference.cache
+C:\Users\Kerim Deniz\source\repos\ConsoleApp7\04_loops\obj\Debug\04_loops.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kerim Deniz\source\repos\ConsoleApp7\04_loops\obj\Debug\04_loops.csproj.CoreCompileInputs.cache
+C:\Users\Kerim Deniz\source\repos\ConsoleApp7\04_loops\obj\Debug\04_loops.exe
+C:\Users\Kerim Deniz\source\repos\ConsoleApp7\04_loops\obj\Debug\04_loops.pdb

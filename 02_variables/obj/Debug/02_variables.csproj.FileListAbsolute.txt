@@ -1,0 +1,8 @@
+C:\Users\Kerim Deniz\source\repos\ConsoleApp7\variables\obj\Debug\02_variables.csproj.AssemblyReference.cache
+C:\Users\Kerim Deniz\source\repos\ConsoleApp7\variables\obj\Debug\02_variables.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kerim Deniz\source\repos\ConsoleApp7\variables\obj\Debug\02_variables.csproj.CoreCompileInputs.cache
+C:\Users\Kerim Deniz\source\repos\ConsoleApp7\variables\obj\Debug\variables.exe
+C:\Users\Kerim Deniz\source\repos\ConsoleApp7\variables\obj\Debug\variables.pdb
+C:\Users\Kerim Deniz\source\repos\ConsoleApp7\variables\bin\Debug\variables.exe.config
+C:\Users\Kerim Deniz\source\repos\ConsoleApp7\variables\bin\Debug\variables.exe
+C:\Users\Kerim Deniz\source\repos\ConsoleApp7\variables\bin\Debug\variables.pdb

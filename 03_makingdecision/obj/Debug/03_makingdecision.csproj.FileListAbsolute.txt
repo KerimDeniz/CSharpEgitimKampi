@@ -1,0 +1,8 @@
+C:\Users\Kerim Deniz\source\repos\ConsoleApp7\03_makingdecision\bin\Debug\03_makingdecision.exe.config
+C:\Users\Kerim Deniz\source\repos\ConsoleApp7\03_makingdecision\bin\Debug\03_makingdecision.exe
+C:\Users\Kerim Deniz\source\repos\ConsoleApp7\03_makingdecision\bin\Debug\03_makingdecision.pdb
+C:\Users\Kerim Deniz\source\repos\ConsoleApp7\03_makingdecision\obj\Debug\03_makingdecision.csproj.AssemblyReference.cache
+C:\Users\Kerim Deniz\source\repos\ConsoleApp7\03_makingdecision\obj\Debug\03_makingdecision.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kerim Deniz\source\repos\ConsoleApp7\03_makingdecision\obj\Debug\03_makingdecision.csproj.CoreCompileInputs.cache
+C:\Users\Kerim Deniz\source\repos\ConsoleApp7\03_makingdecision\obj\Debug\03_makingdecision.exe
+C:\Users\Kerim Deniz\source\repos\ConsoleApp7\03_makingdecision\obj\Debug\03_makingdecision.pdb

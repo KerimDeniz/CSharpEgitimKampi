@@ -1,0 +1,8 @@
+C:\Users\Kerim Deniz\source\repos\ConsoleApp7\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.csproj.AssemblyReference.cache
+C:\Users\Kerim Deniz\source\repos\ConsoleApp7\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kerim Deniz\source\repos\ConsoleApp7\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.csproj.CoreCompileInputs.cache
+C:\Users\Kerim Deniz\source\repos\ConsoleApp7\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.exe.config
+C:\Users\Kerim Deniz\source\repos\ConsoleApp7\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.exe
+C:\Users\Kerim Deniz\source\repos\ConsoleApp7\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.pdb
+C:\Users\Kerim Deniz\source\repos\ConsoleApp7\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.exe
+C:\Users\Kerim Deniz\source\repos\ConsoleApp7\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.pdb
